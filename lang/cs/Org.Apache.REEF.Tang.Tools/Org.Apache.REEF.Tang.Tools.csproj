@@ -68,6 +68,8 @@ under the License.
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  <PropertyGroup>
+    <BuildPackages>false</BuildPackages>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
